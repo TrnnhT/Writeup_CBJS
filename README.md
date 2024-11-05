@@ -1,1 +1,1 @@
-Writeup for CyberJutsu's labs 
+White box web pentest training path writeup.
