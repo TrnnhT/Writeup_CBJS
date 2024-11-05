@@ -1,1 +1,1 @@
-# Writeup_CBJS
+Writeup for CyberJutsu's labs 
